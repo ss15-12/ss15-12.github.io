@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet" type="text/css"/>
+    <meta charset="utf-8">
+    <title>msd</title>
+    <style> </style>
+  </head>
+<body>
+<section id="main">
+<nav>
+<a href="https://www.google.co.in/" class="logo">
+<img src="Daco_5770858.png" alt="nike logo"/>
+      </a>
+      <span class="menu-space"></span>
+      <ul class="menu">
+      <li><a href="https://www.google.co.in/">Home</a></li>
+      <li><a href="https://www.google.co.in/">Skills</a></li>
+      <li><a href="https://www.google.co.in/">Recent</a></li>
+      <li><a href="https://www.google.co.in/">Clients</a></li>
+      <li><a href="https://www.google.co.in/">Contacts</a></li>
+      </ul>
+      <a href="https://www.google.co.in/" class="hey"><strong>Say Hi!</strong></a>
+    </nav>
+    </section>
+    <div class="content">
+      <div class="image">
+        <img src="Daco_4736663.png" alt="msd">
+    </div>
+    <div class="main-text">
+      <h1>Hello,This is <br>MSD</h1>
+      <p>Hey,  through this website you can get to know personally one of the greatest crickters!!! </p>
+      <a href="https://en.wikipedia.org/wiki/MS_Dhoni" class="knowme-btn">Know Your favourite star 
+      </a>
+    </div>
+    </div>
+    
+  </body>
+</html>
+
